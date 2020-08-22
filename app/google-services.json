@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219924084085",
+    "firebase_url": "https://phone-number-auth-40ab5.firebaseio.com",
+    "project_id": "phone-number-auth-40ab5",
+    "storage_bucket": "phone-number-auth-40ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219924084085:android:c69882fdc3194102f94f3c",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberauthenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219924084085-int36cvn9u2hgvbk9na98hjil0k2njcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0d4g35uY73nRH2ixJGYDFeI_SXD_cBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219924084085-int36cvn9u2hgvbk9na98hjil0k2njcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

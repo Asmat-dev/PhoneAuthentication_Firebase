@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Phone Number Authentication Firebase</string>
+    <string name="logo">Logo</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="we_have_sent_you_otp_for_phone_number_verification">We have sent you OTP for phone number verification</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="textview">TextView</string>
+    <string name="hint_pinview">------</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="eg_300">eg 300 - - - - - - -</string>
+    <string name="_92">+92</string>
+    <string name="verify_number">Verify Number</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_your_phone_number_for_signing_in">Enter your Phone Number for Signing In</string>
+    <string name="error_in_signing_in">Error in signing in</string>
+    <string name="please_enter_no_first">Please enter number first</string>
+    <string name="please_enter_proper_no">Please enter a proper number</string>
+    <string name="please_enter_otp_first">Please enter OTP first</string>
+    <string name="invalid_verification_code">The verification code entered was invalid</string>
+</resources>
