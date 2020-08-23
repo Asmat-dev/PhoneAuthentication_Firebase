@@ -1,4 +1,4 @@
-package com.example.phonenumberauthenticationfirebase;
+package com.asmatdev.phoneauthenticationfirebase;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

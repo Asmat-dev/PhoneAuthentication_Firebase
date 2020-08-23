@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Phone Number Authentication Firebase</string>
+    <string name="app_name">Phone Authentication Firebase</string>
     <string name="logo">Logo</string>
     <string name="enter_otp">Enter OTP</string>
     <string name="we_have_sent_you_otp_for_phone_number_verification">We have sent you OTP for phone number verification</string>
